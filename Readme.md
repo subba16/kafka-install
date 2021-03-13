@@ -1,3 +1,5 @@
+## To run docker compose yaml
+## docker-compose up
 
 ## one partition for a topic can only be read by one consumer in a consumer group
 
